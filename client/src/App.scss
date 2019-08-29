@@ -1,0 +1,51 @@
+body{
+  background-color: rgb(241, 245, 248);
+}
+.container{
+  margin-top:40px;
+  background-color: rgb(241, 245, 248);
+  width:100%;
+  height:100vh;
+  display: flex;
+  flex-direction: row;
+  &__info{
+    width:100%;
+  }
+  &__form{
+    display: flex;
+    flex-direction: column;
+    width:30%;
+    &__label {
+      width:70%;
+      color: #5a5c5e;
+      font-size: 14px;
+      font-weight: bold;
+      margin:0 15px 15px 0;
+      padding:0;
+      max-width: none;
+      font-family: 'sailec','-apple-system','BlinkMacSystemFont','avenir next','avenir','helvetica neue','helvetica','ubuntu','roboto','noto','segoe ui','arial','sans-serif';
+    }
+
+    &--select{
+      padding: 0;
+      width:60%;
+    }
+  }
+}
+.selectOption {
+  margin-bottom: 8px;
+}
+.form-group{
+  font-size:14px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.form-control{
+  width:65%;
+  text-align: right;
+  padding-right:0;
+  border-radius: 2px;
+  color: #5a5c5e;
+  font-size:14px;
+}

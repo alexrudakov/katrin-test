@@ -1,0 +1,117 @@
+.companyCard {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin-bottom: 40px;
+  &--header {
+    border-bottom: 2px solid  rgb(241, 245, 248);
+    padding: 0 24px;
+    & h1{
+      font-size: 18px;
+      padding-top: 15px;
+      line-height:26px;
+      color: #0091ff;
+    }
+  }
+  &__container{
+    border-bottom: 2px solid  rgb(241, 245, 248);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 24px;
+    & h1{
+      font-size: 18px;
+      padding-top: 15px;
+      line-height:26px;
+      color: #0091ff;
+    }
+    & button {
+      background-color: #ff863a;
+      margin-top:5px;
+      min-width:128px;
+      font-weight:400;
+      line-height:40px;
+      border-radius: 4px;
+      text-align: center;
+      padding:0 15px;
+      color: #fff;
+      border: none;
+    }
+  }
+  &__tags{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    width:100%;
+    border-bottom: 2px solid  rgb(241, 245, 248);
+
+
+    &--one{
+      box-sizing: border-box;
+      color: #5a5c5e;
+      & h2 {
+        text-align: center;
+        vertical-align: top;
+        font-weight: 400;
+        font-size: 13px;
+        line-height:20px;
+        margin: 0;
+      }
+      & p {
+        margin-top:30px;
+        text-align: center;
+        vertical-align: top;
+      }
+    }
+    &--two{
+      box-sizing: border-box;
+      color: #5a5c5e;
+      & h2 {
+        text-align: center;
+        vertical-align: top;
+        font-weight: 400;
+        font-size: 13px;
+        line-height:20px;
+        margin: 0;
+      }
+      & p {
+        margin-top:30px;
+        text-align: center;
+        vertical-align: top;
+      }
+    }
+    &--three{
+      box-sizing: border-box;
+      color: #5a5c5e;
+      & h2 {
+        text-align: center;
+        vertical-align: top;
+        font-weight: 400;
+        font-size: 13px;
+        line-height:20px;
+        margin: 0;
+      }
+      & p {
+        margin-top:8px;
+        text-align: center;
+        vertical-align: top;
+      }
+    }
+    &--four{
+      box-sizing: border-box;
+      color: #5a5c5e;
+      & h2 {
+        text-align: center;
+        vertical-align: top;
+        font-weight: 400;
+        font-size: 13px;
+        line-height:20px;
+        margin: 0;
+      }
+      & p {
+        margin-top:8px;
+        text-align: center;
+        vertical-align: top;
+      }
+    }
+  }
+}

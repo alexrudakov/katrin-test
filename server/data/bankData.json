@@ -1,0 +1,457 @@
+[
+  {
+    "excellent": [
+      {
+        "months": "60",
+        "apr": "9.95",
+        "name": "Avant"
+      },
+      {
+        "months": "48",
+        "apr": "9.95",
+        "name": "Avant"
+      },
+      {
+        "months": "36",
+        "apr": "9.95",
+        "name": "Avant"
+      },
+      {
+        "months": "24",
+        "apr": "9.95",
+        "name": "Avant"
+      }
+    ],
+    "good": [
+        {
+        "months": "60",
+        "apr": "13.95",
+        "name": "Avant"
+      },
+      {
+        "months": "48",
+        "apr": "13.95",
+        "name": "Avant"
+      },
+      {
+        "months": "36",
+        "apr": "13.95",
+        "name": "Avant"
+      },
+      {
+        "months": "24",
+        "apr": "13.95",
+        "name": "Avant"
+      }
+    ],
+    "fair": [
+      {
+        "months": "60",
+        "apr": "19.95",
+        "name": "Avant"
+      },
+      {
+        "months": "48",
+        "apr": "19.95",
+        "name": "Avant"
+      },
+      {
+        "months": "36",
+        "apr": "19.95",
+        "name": "Avant"
+      },
+      {
+        "months": "24",
+        "apr": "19.95",
+        "name": "Avant"
+      }
+    ],
+    "needs": [
+      {
+        "months": "60",
+        "apr": "26.95",
+        "name": "Avant"
+      },
+      {
+        "months": "48",
+        "apr": "26.95",
+        "name": "Avant"
+      },
+      {
+        "months": "36",
+        "apr": "26.95",
+        "name": "Avant"
+      },
+      {
+        "months": "24",
+        "apr": "26.95",
+        "name": "Avant"
+      }
+    ]
+  },
+  {
+    "excellent": [
+      {
+        "months": "72",
+        "apr": "9.49",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "60",
+        "apr": "8.49",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "48",
+        "apr": "7.99",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "36",
+        "apr": "6.99",
+        "name": "Marcus By Goldman Sachs"
+      }
+    ],
+    "good": [
+      {
+        "months": "72",
+        "apr": "12.49",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "60",
+        "apr": "10.99",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "48",
+        "apr": "13.99",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "36",
+        "apr": "10.99",
+        "name": "Marcus By Goldman Sachs"
+      }
+    ],
+    "fair": [
+      {
+        "months": "60",
+        "apr": "13.49",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "48",
+        "apr": "16.99",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "36",
+        "apr": "12.99",
+        "name": "Marcus By Goldman Sachs"
+      }
+    ],
+    "needs": [
+      {
+        "months": "60",
+        "apr": "22.99",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "48",
+        "apr": "22.99",
+        "name": "Marcus By Goldman Sachs"
+      },
+      {
+        "months": "36",
+        "apr": "22.99",
+        "name": "Marcus By Goldman Sachs"
+      }
+    ]
+  },
+  {
+    "excellent": [
+      {
+        "months": "60",
+        "apr": "10.22",
+        "name": "Prosper"
+      },
+      {
+        "months": "36",
+        "apr": "8.95",
+        "name": "Prosper"
+      }
+    ],
+    "good": [
+      {
+        "months": "60",
+        "apr": "11.84",
+        "name": "Prosper"
+      },
+      {
+        "months": "36",
+        "apr": "10.84",
+        "name": "Prosper"
+      }
+    ],
+    "fair": [
+      {
+        "months": "60",
+        "apr": "16.06",
+        "name": "Prosper"
+      },
+      {
+        "months": "36",
+        "apr": "13.49",
+        "name": "Prosper"
+      }
+    ],
+    "needs": [
+      {
+        "months": "36",
+        "apr": "13.49",
+        "name": "Prosper"
+      }
+    ]
+  },
+  {
+    "excellent": [
+      {
+        "months": "60",
+        "apr": "9.99",
+        "name": "Best Egg"
+      },
+      {
+        "months": "36",
+        "apr": "5.99",
+        "name": "Best Egg"
+      }
+    ],
+    "good": [
+      {
+        "months": "60",
+        "apr": "9.99",
+        "name": "Best Egg"
+      },
+      {
+        "months": "36",
+        "apr": "6.99",
+        "name": "Best Egg"
+      }
+    ],
+    "fair": [
+      {
+        "months": "60",
+        "apr": "12.99",
+        "name": "Best Egg"
+      },
+      {
+        "months": "36",
+        "apr": "9.49",
+        "name": "Best Egg"
+      }
+    ]
+  },
+  {
+    "fair": [
+      {
+        "months": "48",
+        "apr": "15.49",
+        "name": "LendingPoint"
+      },
+      {
+        "months": "36",
+        "apr": "15.49",
+        "name": "LendingPoint"
+      },
+      {
+        "months": "24",
+        "apr": "15.49",
+        "name": "LendingPoint"
+      }
+    ],
+    "needs": [
+      {
+        "months": "48",
+        "apr": "24.35",
+        "name": "LendingPoint"
+      },
+      {
+        "months": "36",
+        "apr": "23.85",
+        "name": "LendingPoint"
+      },
+      {
+        "months": "24",
+        "apr": "22.35",
+        "name": "LendingPoint"
+      }
+    ]
+  },
+  {
+    "excellent": [
+      {
+        "months": "36",
+        "apr": "6.95",
+        "name": "LendingClub"
+      }
+    ],
+    "good": [
+      {
+        "months": "36",
+        "apr": "7.82",
+        "name": "LendingClub"
+      }
+    ],
+    "fair": [
+      {
+        "months": "36",
+        "apr": "25.47",
+        "name": "LendingClub"
+      }
+    ],
+    "needs": [
+      {
+        "months": "36",
+        "apr": "26.21",
+        "name": "LendingClub"
+      }
+    ]
+  },
+  {
+    "good": [
+      {
+        "months": "60",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      },
+      {
+        "months": "48",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      },
+      {
+        "months": "36",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      }
+    ],
+    "fair": [
+      {
+        "months": "60",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      },
+      {
+        "months": "48",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      },
+      {
+        "months": "36",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      }
+    ],
+    "needs": [
+      {
+        "months": "60",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      },
+      {
+        "months": "48",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      },
+      {
+        "months": "36",
+        "apr": "30.99",
+        "name": "OneMain Financial"
+      }
+    ]
+  },
+  {
+    "excellent": [
+      {
+        "months": "60",
+        "apr": "14.00",
+        "name": "Upstart"
+      },
+      {
+        "months": "48",
+        "apr": "12.30",
+        "name": "Upstart"
+      }
+    ],
+    "good": [
+      {
+        "months": "60",
+        "apr": "15.00",
+        "name": "Upstart"
+      },
+      {
+        "months": "36",
+        "apr": "13.80",
+        "name": "Upstart"
+      }
+    ],
+    "fair": [
+      {
+        "months": "60",
+        "apr": "16.00",
+        "name": "Upstart"
+      },
+      {
+        "months": "36",
+        "apr": "15.00",
+        "name": "Upstart"
+      }
+    ],
+    "needs": [
+      {
+        "months": "60",
+        "apr": "16.10",
+        "name": "Upstart"
+      },
+      {
+        "months": "36",
+        "apr": "15.70",
+        "name": "Upstart"
+      }
+    ]
+  },
+  {
+    "needs": [
+      {
+        "months": "36",
+        "apr": "99.90",
+        "name": "Personify Financial"
+      }
+    ]
+  },
+  {
+    "excellent": [
+      {
+        "months": "60",
+        "apr": "7.99",
+        "name": "Eloan Personal Loan"
+      },
+      {
+        "months": "48",
+        "apr": "7.99",
+        "name": "Eloan Personal Loan"
+      },
+      {
+        "months": "36",
+        "apr": "7.99",
+        "name": "Eloan Personal Loan"
+      },
+      {
+        "months": "24",
+        "apr": "7.99",
+        "name": "Eloan Personal Loan"
+      }
+    ]
+  }
+]
