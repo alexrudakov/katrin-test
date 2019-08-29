@@ -1,0 +1,33 @@
+To set project:
+
+clone the repo.
+do npm install in the root.
+do npm install in the client.
+do npm install in the server.
+
+
+To start project:
+
+you need two terminals to run this project.
+
+
+
+one for the server: 
+
+cd into server folder.
+once in it do npx nodemon to start the server.
+the server will run in the live in the background and will keep updating if you change something in the server folder;
+
+
+
+one for the client:
+
+cd into the client folder.
+once in it do npm start;
+
+
+
+
+
+
+Thank you!
