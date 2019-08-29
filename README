@@ -1,9 +1,9 @@
 To set project:
 
 clone the repo.
-do npm install in the root.
-do npm install in the client.
-do npm install in the server.
+do npm install in the root folder (katrin-test).
+do npm install in the client (katrin-test/client).
+do npm install in the server (katrin-test/server).
 
 
 To start project:
